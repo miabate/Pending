@@ -26,7 +26,7 @@ export default function Navigation() {
                 href="/extract" 
                 className="text-gray-900 dark:text-white hover:text-blue-600 dark:hover:text-blue-400 px-3 py-2 text-sm font-medium transition-colors"
               >
-                Extract ID
+                Extract Text
               </Link>
             </div>
           </div>
